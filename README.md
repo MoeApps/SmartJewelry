@@ -1,2 +1,2 @@
 # SmartJewelry
-SmartJewelry is a Flutter app that uses AI to help users design and customize their own jewelry. Chat with the AI, generate unique designs, personalize them, and purchase directly through the app.
+SmartJewlry merges AI, 3D modeling, and e-Commerce to transform jewelry design and shopping. Accessible via website and app, users can create and customize pieces from templates or scratch. An AI bot generates 2D models from descriptions, enabling real-time customization. Final designs are matched to similar products online.
