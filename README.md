@@ -1,19 +1,16 @@
-# Hello World
+# SmartJewelry
 
-A new Flutter project created with FlutLab - https://flutlab.io
+AI-powered jewelry design studio in your pocket.
+SmartJewelry is a mobile app built with Flutter that uses artificial intelligence to help users design personalized jewelry. Simply speak with the AI assistant to generate a custom design tailored to your style. From inspiration to purchase, SmartJewelry empowers you to create, refine, and own your perfect piece.
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+✨ Features
+🧠 AI-Powered Design Assistant – Describe your style or occasion, and let AI generate unique jewelry concepts.
+🎨 Interactive Customization – Modify and fine-tune your design in real-time.
+🛍️ Seamless Purchase Flow – Order your custom-made jewelry directly through the app.
+📱 Cross-Platform – Built with Flutter for iOS and Android support.
+🚀 Tech Stack
+Flutter
+Dart
+OpenAI / LLM (for AI conversation & generation)
+Firebase (optional for backend/auth)
+Stripe (for payments)
