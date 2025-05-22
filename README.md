@@ -1,2 +1,19 @@
-# SmartJewelry
-SmartJewlry merges AI, 3D modeling, and e-Commerce to transform jewelry design and shopping. Accessible via website and app, users can create and customize pieces from templates or scratch. An AI bot generates 2D models from descriptions, enabling real-time customization. Final designs are matched to similar products online.
+# Hello World
+
+A new Flutter project created with FlutLab - https://flutlab.io
+
+## Getting Started
+
+A few resources to get you started if this is your first Flutter project:
+
+- https://flutter.dev/docs/get-started/codelab
+- https://flutter.dev/docs/cookbook
+
+For help getting started with Flutter, view our
+https://flutter.dev/docs, which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Getting Started: FlutLab - Flutter Online IDE
+
+- How to use FlutLab? Please, view our https://flutlab.io/docs
+- Join the discussion and conversation on https://flutlab.io/residents
